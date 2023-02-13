@@ -1,0 +1,3 @@
+D:/cpp/playlist-simulator/cmake-build-debug/CMakeFiles/playlist_simulator.dir
+D:/cpp/playlist-simulator/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/cpp/playlist-simulator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
