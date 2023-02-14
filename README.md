@@ -1,3 +1,4 @@
-# playlist-simulator
-simple playlist simulator / study project
+# Playlist-simulator
+Simple playlist simulator / study project
 
+Project is based on list
